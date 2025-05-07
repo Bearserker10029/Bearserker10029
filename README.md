@@ -4,7 +4,7 @@
 
 ```golang
 
-- ⚡ Quick bio:                   "A student of university"
+- ⚡ Quick bio:                   "A student of university and EXCEL ENJOYER in HSR"
 - 🌱 I’m currently learning:        "Python"
 - 👯 I’m looking to collaborate on: "Python, C, C++, Bash, Pseint related projects"
 - 🤔 I’m looking for help with:     "Anything related to what I am currently learning 😅"
