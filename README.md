@@ -16,7 +16,7 @@
 # 🌐 Socials:
 <div align="center">
   
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Bearserker10029) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kent10029) 
 
 </div>
 
