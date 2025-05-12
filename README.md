@@ -43,6 +43,6 @@
 </div>
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uvgwfitqtzukktq5pe5jbhtro&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=uvgwfitqtzukktq5pe5jbhtro&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uvgwfitqtzukktq5pe5jbhtro&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uvgwfitqtzukktq5pe5jbhtro&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 </div>
