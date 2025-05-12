@@ -16,7 +16,8 @@
 # 🌐 Socials:
 <div align="center">
   
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kent10029) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kent10029)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uvgwfitqtzukktq5pe5jbhtro&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=uvgwfitqtzukktq5pe5jbhtro&redirect=true)
 
 </div>
 
@@ -39,10 +40,5 @@
 ---
   
 [![](https://visitcount.itsvg.in/api?id=Bearserker10029&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uvgwfitqtzukktq5pe5jbhtro&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=uvgwfitqtzukktq5pe5jbhtro&redirect=true)
 
 </div>
