@@ -42,3 +42,11 @@
 [![](https://visitcount.itsvg.in/api?id=Bearserker10029&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Bearserker10029/Bearserker10029/output/snake.svg" alt="Snake animation" />
+
+###
