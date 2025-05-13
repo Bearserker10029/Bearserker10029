@@ -1,4 +1,5 @@
-## Kent
+<h1 align="left">Hi 👋, I'm Kent</h1>
+##
 
 <h2 align="center">About me</h2>
 
