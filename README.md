@@ -3,7 +3,7 @@
 
 ```golang
 
-- ⚡ Quick bio:                      "A university student and EXCEL ENJOYER in HSR"
+- ⚡ Quick bio:                      "A university student"
 - 🌱 I’m currently learning:         "HTML, MySQL, Javascript"
 - 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Javascript related projects"
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning 😅"
