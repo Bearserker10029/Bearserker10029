@@ -4,8 +4,8 @@
 ```golang
 
 - ⚡ Quick bio:                      "A university student and Vibe Coding Fixer"
-- 🌱 I’m currently learning:         "HTML, MySQL, Javascript"
-- 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Javascript related projects"
+- 🌱 I’m currently learning:         "HTML, MySQL, Java"
+- 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Java related projects"
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning 😅"
 - 💬 Ask me about:                   "Python, C, C++, Bash, Pseint"
 - 🛠 Tools I use:                    "Notepad++, Jira, Miro, IntelliJ IDEA"
