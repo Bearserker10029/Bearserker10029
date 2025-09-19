@@ -33,6 +33,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 
 
 </div>
