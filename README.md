@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋, I'm Kent</h2>
+![Header](./github-header-banner.png)
+
 <h2 align="center">About me</h2>
 
 ```golang
