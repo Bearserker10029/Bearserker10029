@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Java related projects"
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning 😅"
 - 💬 Ask me about:                   "Python, C, C++, Bash, Pseint"
-- 🛠 Tools I use:                    "Notepad++, Jira, Miro, IntelliJ IDEA"
+- 🛠️ Tools I use:                    "Notepad++, Jira, Miro, IntelliJ IDEA"
 - 📫 How to reach me:                "https://github.com/Bearserker10029"
 
 ```
