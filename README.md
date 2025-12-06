@@ -4,7 +4,7 @@
 
 ```golang
 
-- ⚡ Quick bio:                      "A university student and Vibe Coding Fixer"
+- ⚡ Quick bio:                      "Telecommunications Engineering Student and Vibe Coding Fixer"
 - 🌱 I’m currently learning:         "HTML, MySQL, Java"
 - 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Java related projects"
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning 😅"
@@ -38,6 +38,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+
+</div>
+
+### 🖼️ **Frameworks**
+<div align="center">
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 </div>
 
@@ -49,7 +58,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2b%2b&logoColor=black)](#)
+
 
 </div>
 
@@ -60,6 +69,7 @@
 [![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=vsc&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2b%2b&logoColor=black)](#)
 
 </div>
 
