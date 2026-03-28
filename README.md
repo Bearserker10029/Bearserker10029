@@ -4,12 +4,12 @@
 
 ```golang
 
-- ⚡ Quick bio:                      "Telecommunications Engineering Student and Vibe Coding Fixer"
-- 🌱 I’m currently learning:         "HTML, MySQL, Java"
+- ⚡ Quick bio:                      "Telecommunications Engineering Student of Pontifical Catholic University of Peru (PUCP) and Vibe Coding Fixer"
+- 🌱 I’m currently learning:         "Arduino, Jupyter Notebook"
 - 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Java related projects"
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning 😅"
 - 💬 Ask me about:                   "Python, C, C++, Bash, Pseint"
-- 🛠️ Tools I use:                    "Notepad++, Jira, Miro, IntelliJ IDEA"
+- 🛠️ Tools I use:                    "Notepad++, Jira, Miro, IntelliJ IDEA, VS Code"
 - 📫 How to reach me:                "https://github.com/Bearserker10029"
 
 ```
