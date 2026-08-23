@@ -5,7 +5,7 @@
 ```golang
 
 - ⚡ Quick bio:                      "Telecommunications Engineering Student of Pontifical Catholic University of Peru"
-- 🌱 I’m currently learning:         "Arduino, Jupyter Notebook"
+- 🌱 I’m currently learning:         "Firebase, Android"
 - 👯 I’m looking to collaborate on:  "Python, C, C++, Bash, Pseint, VHDL, MATLAB, HTML, MySQL, Java related projects"
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning 😅"
 - 💬 Ask me about:                   "Python, C, C++, Bash, Pseint"
