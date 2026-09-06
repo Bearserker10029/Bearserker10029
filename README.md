@@ -107,7 +107,6 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Bearserker10029&style=flat-square&color=blueviolet)
 
 **Thanks for visiting my profile!** 🚀
 
