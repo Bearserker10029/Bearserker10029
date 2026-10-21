@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Telecommunications Engineering Student** at [Pontifical Catholic University of Peru (PUCP)](https://www.pucp.edu.pe/)
-- 🔭 **Pre-professional intern** at [GTR-PUCP](https://gtr.telecom.pucp.edu.pe/) (Grupo de Telecomunicaciones Rurales) — research group focused on connectivity and ICT solutions for rural areas in Latin America
+- 🔭 **Pre-professional intern** at [GTR-PUCP](https://gtr.telecom.pucp.edu.pe/) (Grupo de Telecomunicaciones Rurales) - research group focused on connectivity and ICT solutions for rural areas in Latin America
 - 📡 Active member of **IEEE ComSoc PUCP** (Communications Society Student Branch Chapter)
 - 🌱 Learning **Firebase, Android Development & Spring Boot**
 - 💡 Interested in **Telecommunications, Backend Development, DevOps, and Cloud Infrastructure**
